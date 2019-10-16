@@ -1,6 +1,6 @@
 # RTOS-coursera
 
-## What is RTOS-soursera about?
+## What is RTOS-coursera about?
 It's a personal record of how and what I did in the online course [Developement of Real-Time Systems](https://www.coursera.org/learn/real-time-systems/)
 
 - **Lecturer**: Simon Holmbacka / Åbo Akademi University, Finland
