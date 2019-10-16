@@ -18,4 +18,4 @@ RTOS is the abbreviation of Real Time Operating Systems.
 -	Develop programming skills in real-time systems with C and FreeRTOS real-time kernel
 -	Learn the next stage of RTOS: Multi-core real-time systems
 ## When did I do it?
-From October 2019 to November
+From October 2019 to November 2019
